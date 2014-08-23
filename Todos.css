@@ -1,0 +1,18 @@
+#list{
+    position: relative;
+    top: 10px;
+    left: 5%;
+    width: 90%;
+}
+
+
+li{
+    font-size: 16px;
+    font-family: courier;
+    margin-top: 5px;
+}
+
+#entry{
+    margin-left: 7%;
+    margin-top: 70px;
+}
